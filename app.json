@@ -1,0 +1,16 @@
+{
+  "name": "ExpenseTracker",
+  "displayName": "ExpenseTracker",
+  "expo": {
+    "name": "ExpenseTracker",
+    "slug": "ExpenseTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "android": {
+      "package": "com.vusaar.ExpenseTracker"
+    }
+  }
+}
